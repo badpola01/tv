@@ -1,0 +1,12 @@
+#EXTINF:-1,peace tv bangla 
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
+
+
+#EXTINF:-1,peace tv english
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+
+#EXTINF:-1,peace tv urdu
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
+
+#EXTINF:-1,peace tv chinese 
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-MB/playlist.m3u8
