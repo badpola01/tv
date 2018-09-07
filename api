@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <element>
+      <channel_color>#57bb82</channel_color>
+      <channel_name>1 BD VS WI</channel_name>
+       <channel_logo>1 BD VS WI</channel_logo>
+      <channel_url>http://mhms6.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/03.m3u8</channel_url>
+   </element>
+   <element>
+      <channel_color>#57bb82</channel_color>
+      <channel_name>2 BD VS WI</channel_name>
+      <channel_url>http://51.15.5.246:8010//Gt1//Gazi1i1Liiv//index.m3u8</channel_url>
+   </element>
+   <element>
+      <channel_color>#ffa800</channel_color>
+      <channel_name>4 Sports Live</channel_name>
+      <channel_url>http://mhms8.airtel.tv/wh7f454c46tw2266972042_1041721119/PLTV/88888888/224/3221226392/06.m3u8</channel_url>
+   </element>
+   <element>
+      <channel_color>#f3a314</channel_color>
+      <channel_name>Aljazeera</channel_name>
+      <channel_url>http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226109/03.m3u8</channel_url>
+   </element>
+   <element>
+      <channel_color>#133b2f</channel_color>
+      <channel_name>Animl Plnet</channel_name>
+      <channel_url>http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/index.m3u8</channel_url>
+   </element>
+   
+   
+   
+   
+</root>
